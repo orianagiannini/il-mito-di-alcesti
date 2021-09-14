@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+		<fileDesc>
+			<titleStmt>
+				<title>P.Oxy.67 4546: frammenti dell'Alcesti di Euripide</title>
+				<author>
+					<name xml:id="http://viaf.org/viaf/265326651">Euripide</name>
+				</author>
+			</titleStmt>
+			<respStmt>
+				<resp>digitalizzazione</resp>
+				<name xml:id="OG">Oriana Giannini</name>
+				<resp>metadatazione</resp>
+				<name xml:id="OG">Oriana Giannini</name>
+			</respStmt>
+			<editionStmt>
+				<edition>edizione digitalizzata del <date>2021</date> del P.Oxy.4546
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<authority>DCLP-Digital Corpus of Literary Papyri</authority>
+				<availability>Documento liberamente consultabile</availability>
+				<licence target="https://creativecommons.org/licenses/by/3.0/">Licenza: Creative Commons Attribution 3.0</licence>
+			</publicationStmt>
+			<sourceDesc>
+				<msIdentifier>
+					<settlement>Oxford</settlement>
+					<repository>Sackler Library</repository>
+					<idno type="invNo">Oxford, Sackler Library, Papyrologi Rooms, P.Oxy.67 4546</idno>
+				</msIdentifier>
+				<msContents>
+					<msItem>
+						<author>Euripide</author>
+						<idno type="VIAF">265326651</idno>
+						<title xml:lang="grc">Ἄλκηστις</title>
+					</msItem>
+				</msContents>
+				<physDesc>
+					<objectDesc>
+						<form>frammento</form>
+						<supportDesc>
+							<material>papiro</material>
+							<condition>
+								<p>il frammento si presenta molto rovinato, tanto da diventare illeggibile in alcuni punti</p>
+							</condition>
+						</supportDesc>
+						<layoutDesc>
+							<layout columns="1" writtenlines="30">
+								<p>resta una colonna di 30 versi, alcuni dei quali illeggibili, vergati in una scrittura dalle lettere chiare e ben distinguibili lì dove il papiro non ha subito danni materiali; lo spazio di interlinea è quasi inesistente</p>
+							</layout>
+						</layoutDesc>
+						<handDesc>
+						 <p>Il testo è stato vergato in <term>maiuscola greca</term> con l'utilizzo di un inchiostro nero da parte di una mano di copista ignoto</p>
+						</handDesc>
+					</objectDesc>		
+				</physDesc>
+				<history>
+					<origin>
+						<origPlace>Trovato presso: Ossirinco, Egitto</origPlace>
+						<origDate notBefore="-0100" notAfter="0100" precision="low">I a.C. - I d.C.</origDate>
+					</origin>
+					<provenance type="found">
+						<p>
+							<placeName type="ancient" subtype="nome" ref="https://www.trismegistos.org/place/2722">Oxyrhynchites</placeName>
+							<placeName type="ancient" subtype="region">Egypt</placeName>
+							<placeName type="ancient" ref="https://www.trismegistos.org/place/1524">Oxyrhynchos</placeName>
+						</p>
+					</provenance>					
+				</history>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Documento digitalizzato per la realizzazione di una collezione digitale sulle testimonianze antiche e moderne relative al mito greco di Alcesti</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">greco antico</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<term>poesia</term>
+					<term>teatro</term>
+					<term>tragedia greca</term>
+					<term>mitologia greca</term>
+					<term>letteratura greca</term>
+					<term type="overview">Euripide, Alcesti, vv.344-382 con omissioni</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div xml:lang="grc" type="edition" xml:space="preserve">
+				<l n="1">άν θ ἣ κατεῖχ’ ἐμ</l>
+				<l n="2"><unclear reason="damage">β̣αρβ</unclear>ίτου θίγοιμ’ ἔ̣</l>
+				<l n="3">αιραμι πρὸς Λίβυ</l>
+				<l n="4">υ τ<damage>έ</damage>ρψιν ἐξείλου</l>
+				<l n="5">όνων δέμας τὸ σὸ</l>
+				<l n="6">κτροισιν ἐγγραφ</l>
+				<l n="7">μαι καὶ περιπτυξ<damage>ω̣</damage></l>
+				<l n="8">τὴν φίλην ἐν ἀγκά̣</l>
+				<l n="9">αίπερ οὐκ <damage>ἔ</damage>χω</l>
+				<l n="10">αι, τέρψιν, ἀλλ’ ὅμ<supplied reason="damage">ω̣ς̣</supplied></l>
+				<gap quantity="1" unit="line" reason="damage">...deest 1 versus...</gap>
+				<l n="12">οις ἄν· ἡδὺ γὰρ φίλους</l>
+				<l n="13">ντιν’ <unclear>ἂ̣ν̣</unclear> παρὰ χρόνο̣ν̣</l>
+				<l n="14">σα κα</l>
+				<l n="15">τρος</l>
+				<gap quantity ="unknow" unit="lines" reason="damage">... desunt 10 versus ca. ...</gap>
+				<l n="25">η̣ς πιστῆς ἐ</l>
+				<l n="26">τήσω τά<supplied reason="damage">δ</supplied>ε.</l>
+				<l n="27">ἐ̣κ φίλης χε</l>
+				<l n="28">στερημέ</l>
+				<l n="29">ύμενο̣ς̣</l>
+				<l n="30">γου κά̣</l>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,22 @@
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+	<dc:title>P.Oxy.4546</dc:title>
+	<dc:identifier xsi:type="dcterms:URI">http://papyri.info/dclp/68623</dc:identifier>
+	<dc:creator xsi:type="dcterms:VIAF" mp:ref="http://viaf.org/viaf/265326651/">Euripide</dc:creator>
+	<dc:subjct>letteratura greca, mitologia greca, tragedia greca, Euripide, papirologia</dc:subjct>
+	<dc:subjct xsi:type="dcterms:BNCF">19052</dc:subjct>
+	<dc:subjct xsi:type="dcterms:DDC">292.13</dc:subjct>
+	<dc:subjct xsi:type="dcterms:DDC">880</dc:subjct>
+	<dc:subject xsi:type="dcterms:LCSH">144</dc:subject>
+	<dc:subjct xsi:type="dcterms:DDC">091</dc:subjct>
+	<dc:description>frammento papiraceo contenente alcuni versi (con omissioni) della tragedia "Alcesti" di Euripide</dc:description>
+	<dc:publisher ref="https://papyri.info/browse/dclp/">DCLP - Digital Corpus of Literary Papyri</dc:publisher>
+	<dc:date xsi:type="dc:terms:W3CDTF">2021</dc:date>
+	<dc:type>libro antico</dc:type>
+	<dc:format>frammento</dc:format>
+	<dc:format>1 colonna</dc:format>
+	<dc:source mp:ref="https://www.trismegistos.org/index.php">Trismegistos</dc:source>
+	<dc:language xsi:type="dcterms:ISO 639-2">grc</dc:language>
+	<dc:provenance xsi:type="dcterms:VIAF" mp:ref="http://viaf.org/viaf/169288713">Oxford Sackler Library</dc:provenance>
+	<dc:coverage xsi:type="dcterms:TGN" mp:ref="http://vocab.getty.edu/page/tgn/7011931">Oxford</dc:coverage>
+</mp:metadata>
+
